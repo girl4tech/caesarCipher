@@ -3,7 +3,7 @@ This To-Do List is a simple web app that I've been using for myself over the pas
 
 **Link to project:** http://live-demos.com/
 
-![alt tag](https://github.com/karina001/WuTangNameGenerator/blob/master/Screen%20Shot%202018-03-12%20at%206.12.48%20AM.png)
+![alt tag](https://github.com/karina001/caesarCipher/blob/master/Screen%20Shot%202018-03-12%20at%206.20.14%20AM.png)
 
 ## How It's Made:
 
