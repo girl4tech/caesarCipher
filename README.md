@@ -1,8 +1,6 @@
 # Caesar Cipher Shift Encoder
 This To-Do List is a simple web app that I've been using for myself over the past few days. The list is interactive and allows a user to add or remove list items. List items can also be marked as completed, and any items that are marked as completed can be removed collectively. The slight challenge I had behind this to-do list, was storing the interface somewhere, without a server-side, so that the app doesn't reset each time it is opened, or the browser gets refreshed. Although there are a few ways to do this, for example by using cookies, I leveraged local storage.
 
-**Link to project:** http://live-demos.com/
-
 ![alt tag](https://github.com/karina001/caesarCipher/blob/master/Screen%20Shot%202018-03-12%20at%206.20.14%20AM.png)
 
 ## How It's Made:
