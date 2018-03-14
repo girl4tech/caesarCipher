@@ -1,11 +1,11 @@
 # Caesar Cipher Shift Encoder
-If you're interested in learning Cryptography, the Caesar Cipher is a great example to start with. If you're a person of ancient history and tradition, the Caesar cipher is one the oldest and simplest forms of encrypting a message. It is also named after Julius Casear who, according to Suetonius (a Roman historian), used it with a shift of 3 to encrypt military messages.
+If you're interested in learning Cryptography, the Caesar Cipher is a great example to start with. If you're a person who enjoys ancient history and tradition, the Caesar cipher is one the oldest and simplest forms of encrypting a message. It is also named after Julius Casear who, according to Suetonius (a Roman historian), used it with a shift of 3 to encrypt military messages.
 
 ![alt tag](https://github.com/karina001/caesarCipher/blob/master/Screen%20Shot%202018-03-12%20at%206.20.14%20AM.png)
 
-## How It's Made:
+## How It Works:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** JavaScript
 
 The local storage aspect of this project was an initial challenge as I had not worked with this browser object before. In order to work with the Local Storage object, I modified its setItem() and getItem() methods, which ended up being surprisingly easier than anticipated.
 
