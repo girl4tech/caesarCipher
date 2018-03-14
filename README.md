@@ -11,7 +11,7 @@ Essentially, the Caesear cipher is a type of substitution, where each letter in 
 
 For each letter of the alphabet, you would take its position in the alphabet, say 3 for the letter 'C', and shift it by the N number. If we had a key of +3, that 'C' would be shifted down to an 'F' - and that same process would be applied to every letter in the plaintext. In doing this, we convert a message that initially was readable, to a form that cannot be understood at first glance.  
 
-To work with the number shift and conduct math operations more easily, I leveraged the Ascii values for each character in the alphabet. To start, the idea is to allow a user to input 2 arguments: the first will take in a word or letter and the second will set the number of shifts.  
+To work with the number shift and conduct math operations more easily, I leveraged the Ascii values for each character in the alphabet. To start, the idea is to allow a user to input 2 arguments into a function: the first argument will take in a word or letter, and the second will set the number of shifts. This function subsequently converts the word or letter into its Ascii value to evaluate whether the number should be uppercase or lowercase based on the shift. The next step was to create a function that actually encrypts the message by applying the shift, and the final step was to create a function that decrypts the message by subtracting the shift. Most of the code for this program can be viewed in the screen shot above.
 
 ## Optimizations
 If I had more time I would go back and add better styling to the list to make it look more modern and less retro. I am also planning on making the list full-stack by using Express JS. 
