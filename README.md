@@ -7,7 +7,14 @@ If you're interested in learning Cryptography, the Caesar Cipher is a great exam
 
 **Tech used:** JavaScript
 
-The local storage aspect of this project was an initial challenge as I had not worked with this browser object before. In order to work with the Local Storage object, I modified its setItem() and getItem() methods, which ended up being surprisingly easier than anticipated.
+Essentially, the Casear cipher is a type of substitution, where each letter in a message (which in cryptography is called "plaintext") is replaced with another letter. The letter that replaces the plaintext letter, is derived from a shift of N number, that shifts up or down the alphabet. 
+
+For each letter of the alphabet, you would take its position in the alphabet, say 3 for the letter 'C', and shift it by the key number. If we had a key of +3, that 'C' would be shifted down to an 'F' - and that same process would be applied to every letter in the plaintext.
+
+In this way, a message that initially was quite readable, ends up in a form that cannot be understood at a simple glance. 
+
+undefined
+For example, here's the Caesar Cipher encryption of a full message, using a left shift of 3. 
 
 ## Optimizations
 If I had more time I would go back and add better styling to the list to make it look more modern and less retro. I am also planning on making the list full-stack by using Express JS. 
