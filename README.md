@@ -1,5 +1,5 @@
 # Caesar Cipher Shift Encoder
-If you're interested in learning Cryptography, the Caesar Cipher is a great example to start with. If you're a person who enjoys ancient history and tradition, the Caesar cipher is one the oldest and simplest forms of encrypting a message. It is also named after Julius Caesear who, according to Suetonius (a Roman historian), used it with a shift of 3 to encrypt military messages.
+If you're interested in learning Cryptography, the Caesar Cipher is a great example to start with. If you're a person who enjoys ancient history and tradition, the Caesar cipher is one of the oldest and simplest forms of encrypting a message. It is also named after Julius Caesear who, according to Suetonius (a Roman historian), used it with a shift of 3 to encrypt military messages.
 
 ![alt tag](https://github.com/karina001/caesarCipher/blob/master/Screen%20Shot%202018-03-12%20at%206.20.14%20AM.png)
 
